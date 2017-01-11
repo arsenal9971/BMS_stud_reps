@@ -1,2 +1,2 @@
 # BMS_stud_reps
-Student Representatives Meeting Abstracts
+BMS Student Representatives Meeting Abstracts
