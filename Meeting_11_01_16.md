@@ -2,14 +2,14 @@
 
 ### January:
 
-- 19.01 Admissions Meeting/Board Meeting - Yuya, Héctor and Brent going. 
+- 19.01 Admissions Meeting/Board Meeting - Héctor and Brent going. 
 - 27.01 Ice Skating (Yuya takes care of the place) - Héctor, Josue and Brent will be there.
 
 (send an e-mail to Srijanie after the admissions meeting to ask her for precise dates of return, Héctor).
 
 ### February:
 
-- 10.02. Billard after BMS Friday in Pool and Cigars that is in KulturBraurei- Josue, Héctor and Brent (Brent write the e-mail to students).
+- 10.02. Billiards after BMS Friday in Pool and Cigars that is in KulturBraurei- Josue, Héctor and Brent (Brent write the e-mail to students).
 - 19.02. (from 19.00 to 24.00) Pizza dinner welcome participants - Brent (responsible for this, write Benita for the security) and Héctor (Josue will be present).
 - 20/21.02.  Sildes presentation about the life and study in Berlin - Hector and Josue.
 - 21.02. BMS Math quiz where everybody will participate and we will have group prizes and Beer night (Bauhaus Südstern, one beer per applicant) - Héctor and Josue.
