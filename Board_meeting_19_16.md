@@ -17,3 +17,5 @@
 - **Should prepare a statement for input from stud. rep. for next meeting.**
 
 ** Finished at 17.55 **
+
+test
