@@ -1,7 +1,7 @@
 ### <center> Meeting with Forough. </center>
 
 
-- Remember Jurg Kramer to give announcement before the BMS friday talk to say: "Eisstadion im Sportpark Neukölln" ar 19.00 til 21.30, meeting at S Bahn Hermanstrasse platafor of the Ring-Bahn, Reminder about poster session for the BMS Days. 
+- Remember Jurg Kramer to give announcement before the BMS friday talk to say: "Eisstadion im Sportpark Neukölln" ar 19.00 til 21.30, meeting at S Bahn Hermanstrasse platafor of the Ring-Bahn, Reminder about poster session for the BMS Days, also announce that tomorrow is the chinese's new year, the year of the rooster.  
 
 - Send e-mail about announcement in Board Meeting concerning students (Send e-mail to students on Monday with the link about the new Basic and Additional Course).
 
