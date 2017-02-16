@@ -1,0 +1,64 @@
+﻿#header {
+	width:100%;
+	text-align:center;
+	height:102px;
+}
+
+#headerfloat {
+	float:left;
+	padding-right:100px;	
+}
+
+#header h1, #header h2 {
+	padding:0;
+	margin:0;
+	}
+#header h1 {
+	font-style:italic;
+	font-size:46px;
+}	
+.fltlft {
+	float:left;
+	margin:0px 15px 0px 0px;
+}
+.answerQOD {	
+	color:#990000;
+}
+H5 {
+padding:0;
+margin:0;
+}
+
+.buttonbw {
+	background: #242424;
+   background: -webkit-gradient(linear, left top, left bottom, from(#757575), to(#242424));
+   background: -webkit-linear-gradient(top, #757575, #242424);
+   background: -moz-linear-gradient(top, #757575, #242424);
+   background: -ms-linear-gradient(top, #757575, #242424);
+   background: -o-linear-gradient(top, #757575, #242424);
+	display:block;
+	color:white;
+	text-decoration:none;
+	width:200px; 
+	padding-top:22px; 
+	padding-bottom:22px;
+	font-size:20px; 
+	margin-left:auto; 
+	margin-right:auto; 
+	border-radius: 5px;
+	-moz-box-shadow: 4px 4px 10px -1px #111111;
+	-webkit-box-shadow: 4px 4px 10px -1px #111111;
+	box-shadow: 4px 4px 10px -1px #111111;
+	border-bottom: 2px solid #131313;
+	border-right: 2px solid #242424;
+	margin-bottom: -2px;
+	}
+	
+.buttonbw:hover {
+	margin-bottom: 0px;
+	-moz-box-shadow: inset 4px 4px 10px -1px #000000;
+	-webkit-box-shadow: inset 4px 4px 10px -1px #000000;
+	box-shadow: inset 4px 4px 10px -1px #000000;
+	border-bottom: white;
+	border-right: white;
+	}
