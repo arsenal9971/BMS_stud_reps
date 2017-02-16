@@ -24,4 +24,7 @@
 
 - Final stage.
 
-GRE or so questions. Yakov Perelman's problem.
+GRE or so questions. Yakov Perelman's problem. (Everybody propose a question and we pick randomly).
+
+
+Deadline: Sunday.  
