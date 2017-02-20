@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1487622442 "quiz_brent.tex" "quiz_brent.pdf" "quiz_brent" 1487622443
+["pdflatex"] 1487625311 "quiz_brent.tex" "quiz_brent.pdf" "quiz_brent" 1487625311
   "/home/brent/.texlive/texmf-var/web2c/pdftex/pdflatex.fmt" 1470403014 7214338 c3cc0bd554f726c2286f2b9dd400bb44 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1479649810 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1479649815 1004 54797486969f23fa377b128694d548df ""
@@ -46,8 +46,8 @@
   "/usr/share/texmf-dist/tex/latex/tools/enumerate.sty" 1479649819 3467 d39e40f25d5fd2b3b49a58d155063dd6 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1479649825 31669 df537245012f3e5f05bdc55644b7a3df ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1482441675 1844741 6d43183038fa62f8d6e7a1401780a874 ""
-  "quiz_brent.aux" 1487622443 8 a94a2480d3289e625eea47cd1b285758 ""
-  "quiz_brent.tex" 1487622441 4957 5be7b62d8bfaac5455ee70ff79023dac ""
+  "quiz_brent.aux" 1487625311 8 a94a2480d3289e625eea47cd1b285758 ""
+  "quiz_brent.tex" 1487625310 4959 b2dcdd18364c2d82013bcc814f62c142 ""
   (generated)
   "quiz_brent.log"
   "quiz_brent.pdf"
