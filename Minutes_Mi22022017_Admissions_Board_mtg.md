@@ -25,7 +25,7 @@ Mathematical Statistics is to be added to additional courses so that the conditi
 We reported that 18 applicants took part in Pizza Dinner, 19 in Beer night and almost all in Math Quiz.
 We also reported that more current students should come to these events, even though it is understandable that students have to prioritise preparation for examinations, and to that end, BMS might want to cover the cost for pizza additionally to those already covered.
 The chair agreed on our suggestion.
-Finally, we reported that we are working on the new unofficial BMS student website and got the feedback that we should be careing about which material should be visible to which people.
+Finally, we reported that we are working on the new unofficial BMS student website and got the feedback that we should be caring about which material should be visible to which people.
 A member of the meeting said that when he searched for the BMS regulations, the first thing appered on the Internet was the old unofficial BMS student website.
 
 - BMS Fridays in 2017S: dates and speakers fixed
