@@ -6,7 +6,7 @@
 
 ### Admissions Meeting:
 
-- 14 Phase I stipends decided
+- 14 Phase I stipends decided.
 - There are 3 BMS Phase II stipends and 2 ECMath stipends for RA6,7 available and one from each category are decided.
 
 ### Board Meeting:
