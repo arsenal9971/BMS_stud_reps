@@ -16,7 +16,7 @@
 Mathematical Statistics is to be added to additional courses so that the condition 2, i.e. There must be a guarantee that there will be no content overlap between this course and the other courses in RA3 offered by the other universities., is to be removed.
 
 - Barcelona: Collaboration between BMS and BGSMath Barcelona will be substantialised
-- SAB meeting 2017: likely to be held on 13, 14 Nov. depending on Doodle
+- SAB meeting 2017: likely to be held on 13, 14 Nov. depending on Doodle results
 - 500 eur for Berliner Tag der Mathematik
 - 2500 eur for Joint BMS-IMPAN block course (First half at the end of Nov. and the second half in Mar. Topic: Convex geometry)
 - König: Phase II with stipend accepted
