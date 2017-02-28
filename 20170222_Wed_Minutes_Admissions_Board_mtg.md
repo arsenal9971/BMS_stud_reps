@@ -1,4 +1,4 @@
-## <center> Minutes of the Admissions and Board meetings on Mi.22.02.2017 </center>
+## <center> Minutes of the Admissions and Board meetings on Wed. 22 Feb, 2017 </center>
 
 - Please refer to the official minutes from the BMS office for precision and details.
 
