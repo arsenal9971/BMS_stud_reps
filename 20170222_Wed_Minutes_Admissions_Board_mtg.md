@@ -3,7 +3,7 @@
 - Please refer to the official minutes from the BMS office for precision and details.
 
 The Agenda was sent by Forough on 15 Feb, 2017 with the subject `Agenda of the next Board meeting on 22 February'.
-Official minutes will be sent out by the BMS office soon.
+Official minutes were sent by the BMS office on 7 March, 2017 with the subject `Minutes of the last Board meeting on 22 February'.
 
 - Here are only things more relevant to the student reps.
 - Please feel free to correct typos if any.
