@@ -31,4 +31,4 @@ The chair agreed on our suggestion.
 Finally, we reported that we are working on the new unofficial BMS student website and got the feedback that we should be caring about which material should be visible to which people.
 A member of the meeting said that when he searched for the BMS regulations, the first thing appered on the Internet was the old unofficial BMS student website.
 
-- BMS Fridays in 2017S: dates and speakers fixed
+- BMS Fridays in SoSe17: dates and speakers fixed
