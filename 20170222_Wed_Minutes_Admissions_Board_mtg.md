@@ -1,9 +1,6 @@
 ## <center> Minutes of the Admissions and Board meetings on Wed. 22 Feb, 2017 </center>
 
-- Please refer to the official minutes from the BMS office for precision and details.
-
-Refer the email with the subject 'Agenda of the next Board meeting on 22 February' sent on 15 Feb, 2017; and the one with the subject 'Minutes of the last Board meeting on 22 February' sent on 7 March, 2017.
-
+- Refer the email with the subject 'Agenda of the next Board meeting on 22 February' sent on 15 Feb, 2017; and the one with the subject 'Minutes of the last Board meeting on 22 February' sent on 7 March, 2017.
 - Here are only things more relevant to the student reps.
 - Please feel free to correct typos.
 
