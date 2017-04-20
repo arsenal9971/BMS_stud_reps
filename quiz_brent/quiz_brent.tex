@@ -1,0 +1,149 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\title{Math Quiz - Brent Questions}
+
+\begin{document}
+\maketitle 
+
+\begin{itemize}
+  \item[2.] The answer to each of the following is zero, one, or
+    infinity.  Choose wisely.
+
+    \begin{enumerate}[(a)]
+      \item What does the following expression evaluate to?
+        \[
+          \lim_{n \to \infty} \frac{n!e^{n}}{2\pi n^{n + \frac{1}{2}}}
+          \int_{-\infty}^{\infty} \left[
+            \sum_{k=0}^{\infty} 
+            \frac{1}{k!}
+            \left(\frac{-x^2}{2}\right)^k
+          \right]
+          \,\mathrm{d}x
+        \]
+
+      \item Consider the system of linear equations.
+        \[
+          \begin{array}{rcrcrcrcr}
+            w   &+& 3x  &+& 2y  &+& 2z  &=& 0 \\
+            w   &+& 4x  &+& y   &+&     &=& 0 \\
+            3w  &+& 5x  &+& 10y &+& 14z &=& 0 \\
+            2w  &+& 5x  &+& 5y  &+& 6z  &=& 0
+          \end{array}
+        \]
+        How many solutions $(w, x, y, z)$ are there (where $w, x, y, z$
+        are real)?
+
+      \item Let $y$ is a real-valued function defined on the real line
+        and satisfying the initial value problem below:
+        \begin{align*}
+          y' + xy &= x \\
+          y(0) &= -1
+        \end{align*}
+        Find
+        \[
+          \lim_{x \to -\infty} y(x)
+        \]
+
+      \item Let $G = (V, E)$ be the graph with $V = \mathbb{R}$, and
+        $E = \{\{x, y\} : x, y \in \mathbb{R} \}$, i.e., $G$ is the
+        complete graph on the reals.  Suppose each edge in $E$ is
+        colored either red or blue.  Call a subgraph $H \subseteq G$
+        ``monochromatic'' if all of its edges are the same color.  How
+        many monochromatic, complete subgraphs $H \subseteq G$ must one
+        find such that $|V(H)| = |\mathbb{R}|$?
+
+      \item The function $f : \mathbb{R} \to \mathbb{R}$ is defined as
+        follows:
+        \[
+          f(x) = \begin{cases}
+            3x^2 &\text{if } x \in \mathbb{Q} \\
+            -5x^2 &\text{if } x \notin \mathbb{Q}
+          \end{cases}
+        \]
+        At how many places is $f$ differentiable?
+    \end{enumerate}
+
+    Solutions
+    \begin{enumerate}[(a)]
+      \item 1 (it's the integral of the normal distribution, cleverly
+        disguised).
+      \item $\infty$ (Math GRE practice 24)
+      \item 1 (Math GRE practice 44)
+      \item 0.  Ramsey theory; trust me.
+      \item 1 (Math GRE practice 47)
+    \end{enumerate}
+
+\pagebreak
+
+  \item[5.] ``Paradoxes''.  Match the following with their common names:
+    \begin{enumerate}[(a)]
+      \item The expression ``the smallest positive integer definable in
+        under sixty letters''
+      \item An adjective is autological if and only if it describes
+        itself, e.g., `English', 'unhyphenated', 'pentasyllabic'.
+        
+        An adjective is heterological if and only if it does not
+        describe itself, e.g., `hyphenated' and 'monosyllabic'.
+
+        Into which category does `heterological' fall?  
+      \item Let $R = \{x : x \notin x\}$.  Then $R \in R \iff R \notin
+        R$.
+      \item ``All Cretans are liars.'' --- a Cretan
+      \item If this sentence is true, then Germany borders China.
+      \item The graph of $x \mapsto 1/x$, rotated about the $x$-axis
+        gives a finite volume, but the outer shell has infinite surface
+        area.
+      \item When the Okies left Oklahoma and moved to California, they
+        reaised the average intelligence level in both states.
+      \item ``yields falsehood when preceded by its quotation.'' yields
+        falsehood when preceded by its quotation.
+      \item Consider the following infinite set of sentences:
+        \begin{itemize}
+          \item[$(S_1)$] For each $i > 1$, $S_i$ is not true.
+          \item[$(S_2)$] For each $i > 2$, $S_i$ is not true.
+          \item[$(S_3)$] For each $i > 3$, $S_i$ is not true.
+          \item[$\vdots$]
+        \end{itemize}
+      \item ``Some numbers are squares, while others are not; therefore,
+        all the numbers, including both squares and non-squares must be
+        more numerous than just the squares.  And yet, for every square
+        there is exactly one positive number that is its square root,
+        and for every number there is exactly one square; hence there
+        cannot be more of one than of the other.''
+    \end{enumerate}
+
+    Solution set:
+
+    \begin{enumerate}[(1)]
+      \item Painter's paradox
+      \item The Epimenides paradox
+      \item Berry paradox
+      \item Russell's paradox
+      \item Quine's paradox
+      \item Curry's paradox
+      \item Grelling--Nelson paradox
+      \item Will Rogers phenomenon
+      \item Galileo's paradox
+      \item Yablo's paradox
+    \end{enumerate}
+
+
+    Answers:
+    \begin{enumerate}[(a)]
+      \item 3
+      \item 7
+      \item 4
+      \item 6
+      \item 2
+      \item 1
+      \item 8
+      \item 5
+      \item 10
+      \item 9
+    \end{enumerate}
+
+
+\end{itemize}
+\end{document}
