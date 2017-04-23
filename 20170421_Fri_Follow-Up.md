@@ -7,43 +7,42 @@
 ### 3. Diversity
 - Students generally appreciate the nice and diverse environment.
 ### 4. General Satisfaction
-  ##### 1. Soft Skill Seminars
+  #### 1. Soft Skill Seminars
   - Generally satisfied.
-  - (Not sure in which seminar) Uneven male-female ratio of participants.
+  - (Not sure about which seminar) Uneven male-female ratio of participants.
   - Conflict management was helpful.
-  ##### 2. BMS Friday
+  #### 2. BMS Friday
   - Talks with only pictures would be nice.
-  - Some students are coming to talks they have no idea about.
-  - (Which implies that What Is...? Seminar should attract more students?)
-  ##### 3. Student Conference
+  - Some students are coming to talks they have no idea about. (Which implies that What Is...? Seminar should attract more students?)
+  #### 3. Student Conference
   - Some students have time conflict because it is held on weekdays.
   - Some student suggests that more students can come to the conference if it is held on Friday and Saturday.
   - Holding the conference during the semester break may attract those who cannot attend under the current schedule (but may lose those who are out of town during the break).
   - Current schedule is better integrated with BMS Days.
-  ##### 4. German Courses
+  #### 4. German Courses
   - One in the last semester at HU was great.
   - The quality depends on teachers.
   - Good for extra 5 credits at HU.
-  ##### 5. Lounges
+  #### 5. Lounges
   - FU Workspace needs a couch. Nap rooms desired.
   - FU workspace is full, possibly because it is effectively open to anyone, even outside the BMS community.
   - WHERE IS IT?
   - No one is using the HU lounge.
   - Only with low tables and couches. Insufficient facilities.
-  ##### 6. Student Offices
+  #### 6. Student Offices
   - Some students do not know how to apply for one.
-  ##### 7. Courses
+  #### 7. Courses
   - Time conflict is an issue.
   - Course descriptions are not good enough for some students to access the level of contents.
-  ##### 8. BMS Regulations
+  #### 8. BMS Regulations
   - Incompatibility of credits among FU and BMS. They count credits differently.
   - Some BMS Basic courses are counted as bachelor courses at FU.
-  ##### 9. Mentoring
+  #### 9. Mentoring
   - Some mentors are too busy or take too many students.
   - It is good for students to be able to change mentors.
   - It might be a good idea to assign 2 mentors per student, upon request.
   - Some student spent one semester to be aware of usefulness of advice.
-  ##### 10. Master's Regulations
+  #### 10. Master's Regulations
   - Not clearly explained or information lacking.
   - At hu, 20 non-math credits are required.
   - During the orientation, it is too late to explain the master's regulations on the last day.
@@ -60,12 +59,12 @@
   - TU students can decide to take final exams at the end of semester but FU or HU students have to take exams or fail courses.
   - For BMS, it is not well known that one can improve grades, repeating courses.
   - Regulations and practical advice to deal with them might fit UNOFFICIAL BMS WEBSITE.
-  ##### 11. Phase I Scholarship
+  #### 11. Phase I Scholarship
   - Rent 400 eur/month, scholarship does not really cover the cost of living.
   - A survey should clarify how much students actually spend monthly.
   - Inequality between EU citizins and non-EU citizens, e.g. Health insurance is not negligible.
   - The income level is too low to be eligible to rent (At least 3 students must gather).
-  ##### 12. Misc.
+  #### 12. Misc.
   - New students should get in touch with each other to exchange information, e.g. how to find a flat.
   - In general, housing is a big issue.
   - How and when to apply the dormitory?
