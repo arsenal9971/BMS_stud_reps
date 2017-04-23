@@ -53,7 +53,7 @@
   - Asking contact persons about the regulations at the three universities is more efficient than asking BMS Office.
   - It may be a good idea to invite contact persons to the orientation.
   - Differences of the regulations of the three universities should be emphasized.
-  - At FU, Some courses are not explicitly listed as master's courses, e.g. some bachelor courses may be counted as Master's courses.
+  - At FU, Some courses are not explicitly listed as Master's courses, e.g. some bachelor courses may be counted as Master's courses.
   - Clarify what could potentially be counted to fulfill requirements.
   - Conversion of credits between universities.
   - Students registered at FU or HU can take an advantage of not having to register for courses via the system.
