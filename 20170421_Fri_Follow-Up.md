@@ -36,7 +36,7 @@
   - Course descriptions are not good enough for some students to access the level of contents.
   #### 8. BMS Regulations
   - Incompatibility of credits among FU and BMS. They count credits differently.
-  - Some BMS Basic courses are counted as bachelor courses at FU.
+  - Some BMS Basic courses are counted as Bachelor courses at FU.
   #### 9. Mentoring
   - Some mentors are too busy or take too many students.
   - It is good for students to be able to change mentors.
