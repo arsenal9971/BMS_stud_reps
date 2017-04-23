@@ -24,7 +24,8 @@
   - The quality depends on teachers.
   - Good for extra 5 credits at HU.
   #### 5. Lounges
-  - FU Workspace needs a couch. Nap rooms desired.
+  - FU Workspace needs a couch.
+  - Nap rooms desired.
   - FU workspace is full, possibly because it is effectively open to anyone, even outside the BMS community.
   - WHERE IS IT?
   - No one is using the HU lounge.
