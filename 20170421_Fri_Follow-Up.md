@@ -46,7 +46,7 @@
   #### 10. Master's Regulations
   - Not clearly explained or information lacking.
   - At HU, 20 non-math credits are required.
-  - During the orientation, it is too late to explain the master's regulations on the last day.
+  - During the orientation, it is too late to explain the Master's regulations on the last day.
   - Meeting a mentor before that is nonsense.
   - Master's regulations are in GERMAN.
   - An extended english version of the regulations is desired.
