@@ -44,7 +44,7 @@
   - Some student spent one semester to be aware of usefulness of advice.
   #### 10. Master's Regulations
   - Not clearly explained or information lacking.
-  - At hu, 20 non-math credits are required.
+  - At HU, 20 non-math credits are required.
   - During the orientation, it is too late to explain the master's regulations on the last day.
   - Meeting a mentor before that is nonsense.
   - Master's regulations are in GERMAN.
@@ -56,7 +56,7 @@
   - Clarify what could potentially be counted to fulfill requirements.
   - Conversion of credits between universities.
   - Students registered at FU or HU can take an advantage of not having to register for courses via the system.
-  - TU students can decide to take final exams at the end of semester but FU or HU students have to take exams or fail courses.
+  - TU students can decide to take final exams at the end of the semester but FU or HU students have to take exams or fail courses.
   - For BMS, it is not well known that one can improve grades, repeating courses.
   - Regulations and practical advice to deal with them might fit UNOFFICIAL BMS WEBSITE.
   #### 11. Phase I Scholarship
