@@ -43,7 +43,7 @@
   - It is good for students to be able to change mentors.
   - It might be a good idea to assign 2 mentors per student, upon request.
   - Some student spent one semester to be aware of usefulness of advice.
-  ##### 10. Master's regulations
+  ##### 10. Master's Regulations
   - Not clearly explained or information lacking.
   - At hu, 20 non-math credits are required.
   - During the orientation, it is too late to explain the master's regulations on the last day.
