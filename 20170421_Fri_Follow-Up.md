@@ -66,7 +66,7 @@
   - Inequality between EU citizins and non-EU citizens, e.g. Health insurance is not negligible.
   - The income level is too low to be eligible to rent (At least 3 students must gather).
   #### 12. Misc.
-  - New students should get in touch with each other to exchange information, e.g. how to find a flat.
+  - New students should get in touch with each other to exchange information, e.g. how to find a place to live.
   - In general, housing is a big issue.
   - How and when to apply the dormitory?
   - Studentenwohnheime, no reservation for BMS (Some programs, e.g. Erasmus, have reservation).
