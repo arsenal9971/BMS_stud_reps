@@ -53,7 +53,7 @@ Some BMS Basic courses are counted as bachelor courses at FU.
 
 - Mentoring: Some mentors are too busy or take too many students.
 It is good for students to be able to change mentors.
-It might be a good idea to take 2 mentors per student.
+It might be a good idea to assign 2 mentors per student, upon request.
 
 Some students spent one semester to be aware that they appreciate advice.
 
