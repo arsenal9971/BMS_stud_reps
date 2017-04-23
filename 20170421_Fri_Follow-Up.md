@@ -46,7 +46,7 @@ Only with low tables and couches. Insufficient facilities.
 Student Offices: Some students do not know how to apply for one.
 
 - Courses: Time conflict is an issue.
-Course description is not good enough for some students to access the level of contents.
+Course descriptions are not good enough for some students to access the level of contents.
 
 - BMS Regulations: Incompatibility of credits among FU and BMS. They count credits differently.
 Some BMS Basic courses are counted as bachelor courses at FU.
@@ -60,7 +60,7 @@ Some students spent one semester to be aware that they appreciate advice.
 - Master's regulations: Not clearly explained or information lacking.
 At hu, 20 non-math credits are required.
 
-During the orientation, it is too late to explain the master's regulation on the last day.
+During the orientation, it is too late to explain the master's regulations on the last day.
 Meeting a mentor before that is nonsense.
 
 Master's regulations are in GERMAN.
