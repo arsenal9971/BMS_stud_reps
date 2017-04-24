@@ -1,17 +1,17 @@
 ## <center> Follow-up session for Phase I students on Fri. 21 Apr, 2017 </center>
 
- ###1. BMS Office
-      * BMS Office is really good.
- ###2. Student representatives
-      * More parties desired, including unusual ones such as the Christmas party in the summer.
- ###3. Diversity
+ ### 1. BMS Office
+ - BMS Office is really good.
+ ### 2. Student representatives
+- More parties desired, including unusual ones such as the Christmas party in the summer.
+ ### 3. Diversity
  - Students generally appreciate the nice and diverse environment.
-###4. General Satisfaction
-  ####1. Soft Skill Seminars
-        * Generally satisfied.
-        * (Not sure about which seminar) Uneven male-female ratio of participants.
-        * Conflict management was helpful.
-  ####2. BMS Friday
+### 4. General Satisfaction
+ #### 1. Soft Skill Seminars
+- Generally satisfied.
+- (Not sure about which seminar) Uneven male-female ratio of participants.
+- Conflict management was helpful.
+  #### 2. BMS Friday
   - Talks with only pictures would be nice.
   - Some students are coming to talks they have no idea about. (Which implies that What Is...? Seminar should attract more students?)
   ####3. Student Conference
