@@ -1,9 +1,5 @@
 ## <center> Follow-up session for Phase I students on Fri. 21 Apr, 2017 </center>
 
-1. Something
-  1. Something
-  2. Something
-2. Something
  ### 1. BMS Office
  - BMS Office is really good.
  ### 2. Student representatives
