@@ -6,8 +6,9 @@
 - More parties desired, including unusual ones such as the Christmas party in the summer.
  ### 3. Diversity
  - Students generally appreciate the nice and diverse environment.
-### 4. General Satisfaction
-    #### 1. Soft Skill Seminars
+<h3>4. General Satisfaction</h3>
+    <h4>1. Soft Skill Seminars</h4>
+  <h4>2. SA </h4>
 - Generally satisfied.
 - (Not sure about which seminar) Uneven male-female ratio of participants.
 - Conflict management was helpful.
