@@ -6,15 +6,15 @@
 - More parties desired, including unusual ones such as the Christmas party in the summer.
 ### 3. Diversity
 - Students generally appreciate the nice and diverse environment.
-### 4. General Satisfaction
-  #### 1. Soft Skill Seminars
+###4. General Satisfaction
+  ####1. Soft Skill Seminars
   - Generally satisfied.
   - (Not sure about which seminar) Uneven male-female ratio of participants.
   - Conflict management was helpful.
-  #### 2. BMS Friday
+  ####2. BMS Friday
   - Talks with only pictures would be nice.
   - Some students are coming to talks they have no idea about. (Which implies that What Is...? Seminar should attract more students?)
-  #### 3. Student Conference
+  ####3. Student Conference
   - Some students have time conflict because it is held on weekdays.
   - Some student suggests that more students can come to the conference if it is held on Friday and Saturday.
   - Holding the conference during the semester break may attract those who cannot attend under the current schedule (but may lose those who are out of town during the break).
