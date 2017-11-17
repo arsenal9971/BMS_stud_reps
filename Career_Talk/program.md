@@ -6,8 +6,8 @@
 
 * **Speakers**:
     * **Olga Heismann** - Scrum Master at Leanovate (Service provider for lean product development).
-    * **Claudia Hein** - Project Engineer at IVU Traffic Technologies AG (Software company for solutions on public transportation).
-    * **Thomas Al Khatib** - Senior Project Engineer at IVU Traffic Technologies (Software company for solutions on public transportation). 
+    * **Claudia Hein** - Senior Project Engineer at IVU Traffic Technologies AG (Software company for solutions on public transportation).
+    * **Thomas Krause** - Senior Project Engineer at IVU Traffic Technologies (Software company for solutions on public transportation). 
     * **Dror Atariah** - Senior Data Scientist at reBuy reCommerce GmbH (E-commerce platform, facilitating online consumer-to-consumer and business-to-consumer sales).
     
 * **Time table**:
