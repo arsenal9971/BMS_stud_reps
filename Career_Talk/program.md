@@ -5,8 +5,8 @@
 * **Location**: Kleistsaal, Urania's First Floor, An der Urania 17, 10787 Berlin.
 
 * **Speakers**:
-    * **Claudia Hein** - Scrum Master at Leanovate (Managment consulting firm).
-    * **Olga Heismann** - Project Engineer at IVU Traffic Technologies AG (Software company for solutions on public transportation).
+    * **Olga Heismann** - Scrum Master at Leanovate (Service provider for lean product development).
+    * **Claudia Hein** - Project Engineer at IVU Traffic Technologies AG (Software company for solutions on public transportation).
     * **Thomas Al Khatib** - Senior Project Engineer at IVU Traffic Technologies (Software company for solutions on public transportation). 
     * **Dror Atariah** - Senior Data Scientist at reBuy reCommerce GmbH (E-commerce platform, facilitating online consumer-to-consumer and business-to-consumer sales).
     
